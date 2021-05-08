@@ -1,5 +1,7 @@
 # Atividade do curso MBA em gestão de desenvolvimento front-end
 Atividade Prévia – Trabalho Prático | REA – Desenvolvimento Reativo
+
+
 Utilizando React
 
 # Getting Started with Create React App
